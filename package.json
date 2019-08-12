@@ -1,0 +1,30 @@
+{
+  "name": "nextboilerplate",
+  "version": "1.0.0",
+  "description": "Basic Boilerplate for a Next.js project",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simotae14/NextBoilerplate.git"
+  },
+  "keywords": [
+    "next.js",
+    "boilerplate"
+  ],
+  "author": "Simone Taeggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simotae14/NextBoilerplate/issues"
+  },
+  "homepage": "https://github.com/simotae14/NextBoilerplate#readme",
+  "devDependencies": {
+    "next": "^9.0.3"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
