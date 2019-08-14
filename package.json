@@ -6,7 +6,7 @@
   "scripts": {
     "start": "next",
     "build": "next build",
-    "static": "next export"
+    "server": "next start"
   },
   "repository": {
     "type": "git",
