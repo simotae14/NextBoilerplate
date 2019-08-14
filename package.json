@@ -4,7 +4,9 @@
   "description": "Basic Boilerplate for a Next.js project",
   "main": "index.js",
   "scripts": {
-    "start": "next"
+    "start": "next",
+    "build": "next build",
+    "static": "next export"
   },
   "repository": {
     "type": "git",
