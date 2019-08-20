@@ -4,7 +4,7 @@
   "description": "Basic Boilerplate for a Next.js project",
   "main": "index.js",
   "scripts": {
-    "start": "next",
+    "start": "node server.js",
     "build": "next build",
     "server": "next start"
   },
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/simotae14/NextBoilerplate#readme",
   "devDependencies": {
+    "express": "^4.17.1",
     "next": "^9.0.3"
   },
   "dependencies": {
