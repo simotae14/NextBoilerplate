@@ -24,7 +24,7 @@
   "homepage": "https://github.com/simotae14/NextBoilerplate#readme",
   "devDependencies": {
     "express": "^4.17.1",
-    "next": "^9.0.3"
+    "next": "^11.1.0"
   },
   "dependencies": {
     "react": "^16.9.0",
